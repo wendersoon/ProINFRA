@@ -2,7 +2,9 @@
 
 # ProINFRA - Projeto de Infraestrutura de Redes de Computadores do IFMA - Campus Imperatriz
 
-Esse projeto é uma contribuição dos alunos do 8º período de Ciência da Computação para a **reestruturação arquitetônica da infraestrutura de redes de computadores** do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA) sob orientação do professor [Paulo Henrique Sousa Barbosa](https://github.com/agenteph) na disciplina de Telecomunicações.
+Esse projeto é uma contribuição dos alunos do 8º período de Ciência da Computação para a **reestruturação arquitetônica da infraestrutura de redes de computadores** do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA) sob orientação do professor [Paulo Henrique Sousa Barbosa](https://github.com/agenteph) na disciplina de Telecomunicações, por meio da realização de um novo projeto de redes, que tem como
+principal objetivo a correção de falhas existentes, disponibilizando segurança,
+disponibilidade, confiabilidade, integridade e velocidade.
 
 Os integrantes deste projeto são:
 
@@ -29,6 +31,16 @@ Os integrantes deste projeto são:
 - [Wenderson Melo:](https://github.com/wendersoon) _Documentação de todas as etapas do projeto._
 
   > Responsável por toda a documentação do projeto
+
+## Problemática
+
+Explanar como atualmente está a rede do IFMA como espaço quadrado, blocos, salas, laboratórios e redes atuais, como equipamentos, quantidade de alunos, de acesso e serviços, bem como servidores, qualidade e velocidade da internet e seus respectivos problemas. E partir disto elaborar o projeto de infraestrutura no qual resolva todos os problemas apontados.
+
+## Objetivos
+
+- Criar o projeto de redes do IFMA, levando em consideração os aspectos de disponibilidade, confiabilidade, segurança e integridade das informações para uma melhor infraestrutura de redes.
+
+- Listar todos os equipamentos com seus respsctivos preços e quantidade.
 
 ---
 
