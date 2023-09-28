@@ -29,3 +29,11 @@ Os integrantes deste projeto são:
 - [Wenderson Melo](https://github.com/wendersoon): Documentação de todas as etapas do projeto.
 
   > Responsável por toda a documentação do projeto
+
+---
+
+<div align="center">
+
+[**Acesse a Wiki com a documentação completa**](https://github.com/wendersoon/ProINFRA/wiki)
+
+</div>
