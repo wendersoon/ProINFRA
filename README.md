@@ -2,50 +2,50 @@
 
 # ProINFRA - Projeto de Infraestrutura de Redes de Computadores do IFMA - Campus Imperatriz
 
-Esse projeto é uma contribuição dos alunos do 8º período de Ciência da Computação para a **reestruturação arquitetônica da infraestrutura de redes de computadores** do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA) sob orientação do professor [Paulo Henrique Sousa Barbosa](https://github.com/agenteph) na disciplina de Telecomunicações, por meio da realização de um novo projeto de redes, que tem como
-principal objetivo a correção de falhas existentes, disponibilizando segurança,
-disponibilidade, confiabilidade, integridade e velocidade.
+Este projeto é uma iniciativa dos alunos do 8º período de Ciência da Computação visando a reestruturação arquitetônica da infraestrutura de redes de computadores no IFMA - Campus Imperatriz. Com a orientação do professor [Paulo Henrique Sousa Barbosa](https://github.com/agenteph), na disciplina de Telecomunicações, a proposta é realizar uma remodelação completa da rede, corrigindo falhas existentes e introduzindo melhorias nos aspectos de segurança, disponibilidade, confiabilidade, integridade e velocidade.
 
-Os integrantes deste projeto são:
-
-- [Benjamim Borges:](https://github.com/BenjamimBorges) _Seleção de equipamentos e cabos que serão utilizados._
-
-  > Responsável por procurar os modelos exatos de equipamentos de rede que serão utilizados no projeto, como por exemplo os switches, armarios, cabos etc.
-
-- [Elvis Rodrigues Almeida:](https://github.com/Elvis-Almeida) _Distribuição do cabeamento de rede._
-
-  > Responsável por definir por onde e como serão utilizados os cabos de rede, definindo por exemplo em quais pontos será utilizado fibra ou cabo metálico.
-
-- [Jônatas Mota Da Silva Junior:](https://github.com/jonatasmota404) _Desenhar e legendar plata baixa._
-
-  > Responsável pelo desenho completo da planta baixa do projeto quanto as suas legendas
-
-- [Lucio Gomes Pinto:](https://github.com/Luciogp) _Analista de mercado._
-
-  > Responsável por catalogar e analzar os preços, lojas e links nos quais poderão ser comprados os equipamentos de todo o projeto.
-
-- [Vinicius França:](https://github.com/vinicius4006) _Distribuição dos equipamentos de rede._
-
-  > Responsável por definir onde e como serão utilizados equipamentos de redes como armarios, switches, roteadores etc e gerir o projeto em geral.
-
-- [Wenderson Melo:](https://github.com/wendersoon) _Documentação de todas as etapas do projeto._
-
-  > Responsável por toda a documentação do projeto
-
-## Problemática
-
-Explanar como atualmente está a rede do IFMA como espaço quadrado, blocos, salas, laboratórios e redes atuais, como equipamentos, quantidade de alunos, de acesso e serviços, bem como servidores, qualidade e velocidade da internet e seus respectivos problemas. E partir disto elaborar o projeto de infraestrutura no qual resolva todos os problemas apontados.
+## Contextualização
+Atualmente, a infraestrutura de redes do IFMA apresenta desafios significativos que afetam diretamente a qualidade dos serviços oferecidos. Problemas como distribuição inadequada de blocos, salas e laboratórios, quantidade insuficiente de acessos, e serviços lentos comprometem a experiência dos usuários. O projeto ProINFRA busca não apenas corrigir essas falhas, mas também estabelecer uma base sólida para um ambiente tecnológico moderno e eficiente.
 
 ## Objetivos
+* Reestruturação da Rede: Desenvolver um projeto que leve em consideração disponibilidade, confiabilidade, segurança e integridade, promovendo uma infraestrutura de redes mais eficiente.
 
-- Criar o projeto de redes do IFMA, levando em consideração os aspectos de disponibilidade, confiabilidade, segurança e integridade das informações para uma melhor infraestrutura de redes.
+### Objetivos Adicionais
 
-- Listar todos os equipamentos com seus respsctivos preços e quantidade.
+* Integração de Tecnologias Emergentes: Além da correção das falhas existentes, o projeto buscará integrar tecnologias emergentes, como Internet das Coisas (IoT), para aprimorar as funcionalidades e a conectividade.
 
----
+* Sustentabilidade e Eficiência Energética: Considerando a importância da sustentabilidade, o projeto incluirá iniciativas para otimização do consumo de energia, utilizando tecnologias eficientes e práticas sustentáveis.
 
-<div align="center">
+* Resiliência e Redundância: A arquitetura da rede será projetada para garantir resiliência e redundância, minimizando possíveis impactos de falhas e proporcionando uma experiência contínua, mesmo diante de eventos imprevistos.
 
-[**Acesse a Wiki com a documentação completa**](https://github.com/wendersoon/ProINFRA/wiki)
+## Metodologia
 
-</div>
+O projeto será dividido nas seguintes etapas:
+
+1. Levantamento das necessidades atuais e identificação de problemas.
+2. Elaboração da planta baixa detalhada.
+3. Definição da distribuição de cabeamento e equipamentos.
+4. Documentação completa de todas as etapas no Git Wiki.
+
+## Resultados Esperados
+Espera-se alcançar uma infraestrutura de redes renovada, solucionando os problemas identificados e proporcionando um ambiente mais eficiente e moderno para o IFMA.
+
+## Integrantes do Projeto
+
+* [**Benjamim Borges**](https://github.com/BenjamimBorges): **Seleção de Equipamentos e Cabos**
+ > Encarregado de definir a distribuição do cabeamento de rede, escolhendo entre fibra óptica e cabo metálico, além de determinar os pontos de instalação.
+
+* [**Elvis Rodrigues Almeida**](https://github.com/Elvis-Almeida): **Distribuição do Cabeamento de Rede**
+> Encarregado de definir a distribuição do cabeamento de rede, escolhendo entre fibra óptica e cabo metálico, além de determinar os pontos de instalação.
+
+* [**Jônatas Mota Da Silva Junior**](https://github.com/jonatasmota404): **Desenho e Legenda da Planta Baixa**
+> Responsável pelo desenho detalhado da planta baixa do projeto, incluindo todas as legendas necessárias para sua compreensão.
+
+* [**Lucio Gomes Pinto**](https://github.com/Luciogp): **Analista de Mercado**
+Responsável por definir a localização e a disposição dos equipamentos de rede, como armários, switches e roteadores.
+
+* [**Vinicius França**](https://github.com/vinicius4006): **Distribuição dos Equipamentos de Rede**
+> Responsável por definir a localização e a disposição dos equipamentos de rede, como armários, switches, roteadores, e gerenciar o projeto como um todo.
+
+* [**Wenderson Melo**](https://github.com/wendersoon): **Documentação de Todas as Etapas do Projeto**
+> Encarregado de documentar minuciosamente todas as etapas do projeto no Git Wiki, garantindo uma base sólida para referência e futuras intervenções.
